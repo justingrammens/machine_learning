@@ -1,1 +1,1 @@
-# machine_learning
+Valuable guides and traning for Machine Learning applications.
