@@ -99,7 +99,7 @@ Layer or a MatMul Layer (output: logits) and a Softmax layer
 (output: probabilities) as shown below. Refer to the [`tiny_conv`](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/examples/speech_commands/models.py#L673)
 model architecture.
 
-![model_architecture.png](../images/model_architecture.png)
+![model_architecture.png](https://raw.githubusercontent.com/tensorflow/tflite-micro/main/tensorflow/lite/micro/examples/micro_speech/images/model_architecture.png)
 
 *This image was derived from visualizing the 'model.tflite' file in
 [Netron](https://github.com/lutzroeder/netron)*
