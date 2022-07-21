@@ -57,6 +57,6 @@ The final model used to simulate a sine wave is displayed below. It is a
 simple feed forward deep neural network with 2 fully connected layers with
 ReLu activations and a final fully connected output layer with as shown below.
 
-![model_architecture.png](../images/model_architecture.png)
+![model_architecture.png](https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/hello_world/images/model_architecture.png)
 
 *This image was derived from visualizing the 'model.tflite' file in [Netron](https://github.com/lutzroeder/netron)*
